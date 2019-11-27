@@ -61,9 +61,10 @@ Flowchart Install Ulang Windows 7 32 bit Menggunakan Flash Drive
 59. selesai (s. terminator)
 
 Asumsi pada flowchart diatas yaitu 
-1. Sudah memiliki master windows 7 32 bit
-2. Untuk Laptop Acer Type Ace One 722
-3. Menggunakan Aplikasi Bootable Rufus 3.0.-
+1. Sudah memiliki master windows 7 32 bit.
+2. Untuk Laptop Acer Type Ace One 722.
+3. Menggunakan Aplikasi Bootable Rufus 3.0.-.
+4. (s.) adalah singkatan dari kata simbol yg digunakan contoh (s. proses) berarti simbol flowchart yg digunakan "proses".
 
 --by.create Moh.Azis, S.Komp
 --if (YES) I’am ready to Work Else (NO) Leave It
